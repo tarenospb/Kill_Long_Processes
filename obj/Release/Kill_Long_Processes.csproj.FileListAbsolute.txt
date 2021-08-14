@@ -1,0 +1,7 @@
+C:\Users\IVAN_OLESYA\Desktop\Портфолио\Kill_Long_Processes\bin\Release\Kill_Long_Processes.exe.config
+C:\Users\IVAN_OLESYA\Desktop\Портфолио\Kill_Long_Processes\bin\Release\Kill_Long_Processes.exe
+C:\Users\IVAN_OLESYA\Desktop\Портфолио\Kill_Long_Processes\bin\Release\Kill_Long_Processes.pdb
+C:\Users\IVAN_OLESYA\Desktop\Портфолио\Kill_Long_Processes\obj\Release\Kill_Long_Processes.csprojAssemblyReference.cache
+C:\Users\IVAN_OLESYA\Desktop\Портфолио\Kill_Long_Processes\obj\Release\Kill_Long_Processes.csproj.CoreCompileInputs.cache
+C:\Users\IVAN_OLESYA\Desktop\Портфолио\Kill_Long_Processes\obj\Release\Kill_Long_Processes.exe
+C:\Users\IVAN_OLESYA\Desktop\Портфолио\Kill_Long_Processes\obj\Release\Kill_Long_Processes.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kill_Long_Processes", "Kill_Long_Processes.csproj", "{FAEF1FB3-89BF-496A-9133-D27783D4156A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAEF1FB3-89BF-496A-9133-D27783D4156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEF1FB3-89BF-496A-9133-D27783D4156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEF1FB3-89BF-496A-9133-D27783D4156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEF1FB3-89BF-496A-9133-D27783D4156A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53841B54-7E02-490A-9947-70B1984EB7A5}
+	EndGlobalSection
+EndGlobal
